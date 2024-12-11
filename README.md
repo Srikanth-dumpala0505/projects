@@ -1,2 +1,2 @@
-# projects
-It contains all projects related to HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT,SAAS
+# Projects
+It contains all projects related to HTML, CSS, JAVASCRIPT, BOOTSTRAP, REACT,SAAS.
